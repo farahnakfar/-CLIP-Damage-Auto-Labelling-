@@ -1,4 +1,4 @@
-# CLIP-Powered Automated Damage Labeling
+# CLIP Model Automated Damage Labeling
 
 **Automated clustering and damage detection labeling for industrial images powered by the CLIP model.**
 
